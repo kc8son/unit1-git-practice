@@ -108,6 +108,12 @@ rmdir drinks
 
 
 ### Step 4
+git init
+git add .
+git commit -m 'first commit'
+
+
+### Step 5
 git remote add origin https://github.com/kc8son/unit1-git-practice.git
 NOTE: I had to create a new repo in the github web, then push my changes to the new repo.
 git push -u origin main
@@ -115,10 +121,9 @@ remote: Repository not found.
 fatal: repository 'https://github.com/kc8son/unit1-git-practice.git/' not found
 
 
-### Step 5
-
-
 ### Step 6
+git add .
+git commit -m 'starting a menu'
 
 
 ### Step 7
